@@ -95,3 +95,5 @@ ENV/
 
 # Custom
 .idea/
+keys/
+credentials.yml
