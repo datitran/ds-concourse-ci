@@ -1,0 +1,8 @@
+---
+applications:
+- name: data-science-api
+  memory: 128MB
+  disk_quota: 1GB
+  random-route: true
+  buildpack: python_buildpack
+  command: python app.py
